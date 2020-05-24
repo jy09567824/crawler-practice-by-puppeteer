@@ -1,0 +1,19 @@
+{
+  "name": "kkday",
+  "version": "1.0.0",
+  "description": "this is description",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "csvjson": "^5.1.0",
+    "jquery": "^3.4.1",
+    "json2csv": "^4.5.4",
+    "puppeteer": "^1.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
